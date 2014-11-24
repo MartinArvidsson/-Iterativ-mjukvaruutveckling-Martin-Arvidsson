@@ -1,0 +1,9 @@
+C:\Users\Martin\Desktop\SKOLSAKER\NastStorsta\bin\Debug\NastStorsta.exe.config
+C:\Users\Martin\Desktop\SKOLSAKER\NastStorsta\bin\Debug\NastStorsta.exe
+C:\Users\Martin\Desktop\SKOLSAKER\NastStorsta\bin\Debug\NastStorsta.pdb
+C:\Users\Martin\Desktop\SKOLSAKER\NastStorsta\obj\Debug\NastStorsta.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\SKOLSAKER\NastStorsta\obj\Debug\NastStorsta.exe
+C:\Users\Martin\Desktop\SKOLSAKER\NastStorsta\obj\Debug\NastStorsta.pdb
+C:\Users\Martin\Desktop\Iterativ\NastStorsta\bin\Debug\NastStorsta.exe.config
+C:\Users\Martin\Desktop\Iterativ\NastStorsta\obj\Debug\NastStorsta.exe
+C:\Users\Martin\Desktop\Iterativ\NastStorsta\obj\Debug\NastStorsta.pdb

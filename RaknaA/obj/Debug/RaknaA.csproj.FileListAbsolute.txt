@@ -1,0 +1,12 @@
+C:\Users\Martin\Desktop\SKOLSAKER\RaknaA\bin\Debug\RaknaA.exe.config
+C:\Users\Martin\Desktop\SKOLSAKER\RaknaA\bin\Debug\RaknaA.exe
+C:\Users\Martin\Desktop\SKOLSAKER\RaknaA\bin\Debug\RaknaA.pdb
+C:\Users\Martin\Desktop\SKOLSAKER\RaknaA\obj\Debug\RaknaA.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\SKOLSAKER\RaknaA\obj\Debug\RaknaA.exe
+C:\Users\Martin\Desktop\SKOLSAKER\RaknaA\obj\Debug\RaknaA.pdb
+C:\Users\Martin\Desktop\Iterativ\RaknaA\bin\Debug\RaknaA.exe.config
+C:\Users\Martin\Desktop\Iterativ\RaknaA\obj\Debug\RaknaA.exe
+C:\Users\Martin\Desktop\Iterativ\RaknaA\obj\Debug\RaknaA.pdb
+C:\Users\Martin\Desktop\Iterativ\RaknaA\bin\Debug\RaknaA.exe
+C:\Users\Martin\Desktop\Iterativ\RaknaA\bin\Debug\RaknaA.pdb
+C:\Users\Martin\Desktop\Iterativ\RaknaA\obj\Debug\RaknaA.csprojResolveAssemblyReference.cache
